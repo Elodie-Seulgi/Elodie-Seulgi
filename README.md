@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi world 👋
 
-<!--
-**Elodie-Seulgi/Elodie-Seulgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-Here are some ideas to get you started:
+My name is Elodie and I am currently studying and working in web development.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
