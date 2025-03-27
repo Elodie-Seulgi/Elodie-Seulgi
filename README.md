@@ -3,3 +3,10 @@
 My name is Elodie and I am currently studying and working in web development.
 - 📫 How to reach me: via discord : elodieseulgi000
 
+```yaml
+A little bit about me :
+
+I am a half-french, half-korean learner that enjoys making/developping things.
+I have a creative mind and enjoy designing templates.
+
+```
